@@ -19,8 +19,8 @@ Ob2 = complex(2, 3)
 ### PROGRAM
 
 ```
-Reg.No: 212223060255
-Name: SHALINI S
+Reg.No: 212223060305
+Name: Vishnu priya E
 
 class Complex:
     def __init__(self,real,imag):
